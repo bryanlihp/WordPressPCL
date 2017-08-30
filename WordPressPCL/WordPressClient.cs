@@ -17,6 +17,7 @@ namespace WordPressPCL
 
     /// <summary>
     ///     Main class containing the wrapper client with all public API endpoints.
+    ///     Test2 comment added
     /// </summary>
     public class WordPressClient
     {

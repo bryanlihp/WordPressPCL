@@ -3151,6 +3151,7 @@
         <member name="T:WordPressPCL.WordPressClient">
             <summary>
                 Main class containing the wrapper client with all public API endpoints.
+                Test2 comment added
             </summary>
         </member>
         <member name="P:WordPressPCL.WordPressClient.WordPressUri">
